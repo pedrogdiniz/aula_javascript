@@ -1,4 +1,6 @@
-
+function botao(){
+    alert("Obrigado por clicar");
+};
 
 /*
 var d = new Date();
